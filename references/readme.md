@@ -1,3 +1,3 @@
-#adding new directory#
+# adding new directory #
 
-** This is great! **
+**This is great**
